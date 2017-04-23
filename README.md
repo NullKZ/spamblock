@@ -1,2 +1,2 @@
 # spamblock
-tera-proxy module for blocking repeated system alerts
+ᴛᴇʀᴀ-ᴘʀᴏxʏ module for blocking repeated system alerts
